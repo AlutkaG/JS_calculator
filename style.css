@@ -1,0 +1,36 @@
+table{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    border-spacing: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #b3b3b3;
+}
+
+button{
+    width:10vh;
+    height: 7vh;
+    border-color: #b3b3b3;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    font-size: 3vh;
+}
+
+.btn-equal{
+    height: 31vh;
+    background-color: #005580;
+    color: white;
+}
+
+.output-area{
+    background-color: #e6e6e6;
+    border-color: #b3b3b3;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2px;
+    height: 8vh;
+}
+
